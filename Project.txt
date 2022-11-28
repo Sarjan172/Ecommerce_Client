@@ -1,0 +1,7 @@
+E-commerce 
+Client Side
+1.Login
+2. Product display
+3. Order product
+4. Ordered Lists
+5. Logout
